@@ -10,23 +10,7 @@ Base project folder for a Silverstripe ([http://silverstripe.org](http://silvers
 
 See [Getting Started](https://docs.silverstripe.org/en/4/getting_started/) for more information.
 
-## Bugtracker ##
-
-Bugs are tracked on github.com ([framework issues](https://github.com/silverstripe/silverstripe-framework/issues),
-[cms issues](https://github.com/silverstripe/silverstripe-cms/issues)).
-Please read our [issue reporting guidelines](https://docs.silverstripe.org/en/4/contributing/issues_and_bugs/).
-
-## Development and Contribution ##
-
-If you would like to make changes to the Silverstripe core codebase, we have an extensive [guide to contributing code](https://docs.silverstripe.org/en/4/contributing/code/).
-
-## Links ##
-
- * [Changelogs](https://docs.silverstripe.org/en/4/changelogs/)
- * [Bugtracker: Framework](https://github.com/silverstripe/silverstripe-framework/issues)
- * [Bugtracker: CMS](https://github.com/silverstripe/silverstripe-cms/issues)
- * [Bugtracker: Installer](https://github.com/silverstripe/silverstripe-installer/issues)
- * [Forums](http://silverstripe.org/forums)
- * [Developer Mailinglist](https://groups.google.com/forum/#!forum/silverstripe-dev)
- * [License](./LICENSE)
 # vlog
+![Screenshot from 2022-09-14 17-28-09](https://user-images.githubusercontent.com/23088361/190131525-0101b67e-82c8-47c0-ba51-c3b003b8c7f1.png)
+![Screenshot from 2022-09-14 17-28-22](https://user-images.githubusercontent.com/23088361/190131532-f7a8cb30-c86d-4962-a6d7-2acf0c7d1f27.png)
+
