@@ -28,13 +28,13 @@ class VideoSearchPageController extends PageController {
 			]));
 
 			$videos = $videos->filter([
-				'Title:PartialMatch' => $search
+				'Tittle:PartialMatch' => $search
 			]);
 		}
 
 		if($search = $request->getVar('Category')){
 			$activeFilters->push(ArrayData::create([
-				'Category' => VideoCategory::get()->filter(['ID' => $search])->first()->Title
+				'Category' => VideoCategory::get()->filter(['ID' => $search])->first()->Tittle
 			]));
 
 			$videos = $videos->filter([
